@@ -1,0 +1,10 @@
+restAssured\api\endpoints\UserEndPoints2.class
+restAssured\api\utilities\DataProviders.class
+restAssured\api\test\UserTest2.class
+restAssured\api\endpoints\UserEndPoints.class
+restAssured\api\utilities\XLUtility.class
+restAssured\api\endpoints\routes.class
+restAssured\api\test\DataDrivenTest.class
+restAssured\api\test\UserTest.class
+restAssured\api\payload\User.class
+restAssured\api\utilities\ExtentReportManager.class
